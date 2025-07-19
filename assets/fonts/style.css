@@ -1,15 +1,5 @@
 @font-face {
-   font-family: 'Bondrians';
-   font-display: swap;
-   src: url('Bondrians/font.ttf');
-}
-@font-face {
    font-family: 'Sultan';
    font-display: swap;
    src: url('Sultan/font.ttf');
-}
-@font-face {
-   font-family: 'LinLibertine_aDRS';
-   font-display: swap;
-   src: url('LinLibertine_aDRS/font.ttf');
 }
